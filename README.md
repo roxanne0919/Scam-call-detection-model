@@ -19,5 +19,5 @@ Libraries: scikit-learn, pandas, matplotlib, nltk, speech-recognition
 
 ## App Mockup
 
-![App Screenshot](https://drive.google.com/file/d/1edVyWfOZWniY_JvRJaNUmlfBegNX1hBW/view?usp=drive_link)
+![App Screenshot](https://i.imgur.com/rFHJFrY.png)
 
