@@ -14,6 +14,7 @@ https://drive.google.com/file/d/14hkUUsNVVxjQUXBZJcY5sh5f19ZvP6vT/view?usp=drive
 ## Tech Stack
 
 Code: python
+
 Libraries: scikit-learn, pandas, matplotlib, nltk, speech-recognition
 
 
