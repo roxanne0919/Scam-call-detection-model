@@ -1,7 +1,7 @@
 
 # Scam call detection model (Xplore AI bootcamp)
 
-Built a linear regression model that predicts whether a call is fraudulent, with an accuracy rate of 80% utilising python libraries such as sklearn, pandas and matplotlib.
+Built a logistic regression model that predicts whether a call is fraudulent, with an accuracy rate of 80% utilising python libraries such as sklearn, pandas and matplotlib.
 
 Voice is detected using speech recognition, then the detected speech is converted into text and analysed by the model to determine if the call is fraudulent.
 
